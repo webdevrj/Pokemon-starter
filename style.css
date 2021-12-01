@@ -11,3 +11,43 @@
     width: 180px;
 }
 
+
+
+#pok1{
+    height: 250px;
+    width: auto;
+}
+
+#pok2{
+    height: 250px;
+    width: auto;
+}
+
+#pok3{
+    height: 250px;
+    width: auto;
+}
+
+.card{
+    
+    color: black;
+}
+
+#fonpok1{
+    background-color: #90F065;
+    margin: 10px;
+}
+
+#fonpok2{
+    background-color: #2B28EB;
+    margin: 10px;
+}
+
+#fonpok3{
+    background-color: #FF0011;
+    margin: 10px;
+}
+
+#navbarducul{
+    
+}
